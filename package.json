@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barosanuemailtest/EmplManagerBackEnd.git"
+    "url": "git+https://github.com/dwelsh1/backEnd"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/barosanuemailtest/EmplManagerBackEnd/issues"
+    "url": "https://github.com/dwelsh1/backEnd/issues"
   },
-  "homepage": "https://github.com/barosanuemailtest/EmplManagerBackEnd#readme",
+  "homepage": "https://github.com/dwelsh1/backEnd#readme",
   "dependencies": {
     "@types/node": "^12.7.2",
     "moment": "^2.24.0",
